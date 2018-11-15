@@ -4,9 +4,12 @@ Title: ggplot2 extension with OECD-like geoms, scales and themes
 Version: 0.1.0
 Author: Juan C. López Tavera
 Maintainer: Juan C. López Tavera <jc.lopeztavera@gmail.com>
-Description: ggplot2 extension with OECD-like geoms, scales and themes. 
-This package is an OECD-independent project.
+Description: ggoecd is a ggplot2 extension created to help analysts 
+    to quickly produce publication-quality graphics with OECD style,
+    including custom geoms, scales, themes and graphic-tweaking tools.
+    This package is an developed as a project independet to the OECD.
 License: MIT License
 Encoding: UTF-8
 LazyData: true
 Imports: ggplot2
+Suggests: dplyr
